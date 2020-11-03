@@ -9,6 +9,6 @@
     "express": "4.14.x"
   },
   "scripts": {
-    "start": "nodejs app.js"
+    "start": "node app.js"
   }
 }
